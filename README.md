@@ -3,7 +3,7 @@
 
 This is the code and pre-trained models for using the bot-detection algorithm published in:
 
-* [Stukal, Denis, Sergey Sanovich, Richard Bonneau, and Joshua A. Tucker. (2017). "Detecting Political Bots on Russian Twitter." Big Data 5(4): 310-324.](http://online.liebertpub.com/doi/pdfplus/10.1089/big.2017.0038)*
+* [Stukal, Denis, Sergey Sanovich, Richard Bonneau, and Joshua A. Tucker. (2017). "Detecting Political Bots on Russian Twitter." Big Data 5(4): 310-324.](http://online.liebertpub.com/doi/pdfplus/10.1089/big.2017.0038)
 
 ## Getting Started
 
